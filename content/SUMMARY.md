@@ -7,3 +7,4 @@
 * [第二章: 备份原始md文档到github](github/index.md)
   - [第一节: 备份原始文档到github](github/chapter01.md)
   - [第二节: 发布gitbook到gh-pages分支](github/chapter02.md)
+  - [第三节: 使用脚本自动化部署gitbook到gh-pages](github/chapter03.md)
